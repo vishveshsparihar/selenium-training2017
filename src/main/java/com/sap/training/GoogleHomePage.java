@@ -6,7 +6,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class GoogleHomePage {  
+public class GoogleHomePage {     
 	WebDriver driver;
 	
 	public GoogleHomePage(WebDriver driver) {
